@@ -1,4 +1,4 @@
-test line 1
-test line 2
+translated test line 1
+translated test line 2
 
-test line 3
+translated test line 3
