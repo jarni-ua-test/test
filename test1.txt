@@ -2,5 +2,5 @@ translated test line 1
 updated translated test line 2
 
 translated test line 3
-new test line 4
+translated new test line 4
 updated new test line 5
